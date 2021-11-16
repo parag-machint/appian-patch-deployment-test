@@ -1,0 +1,32 @@
+Success (1):
+content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 "AB_ODOO_TOKEN"
+
+Referenced precedents that were not exported (1):
+content 1557 _a-0000e543-e0b5-8000-9baa-011c48011c48_148098
+
+Trace:
+2021-11-16 07:27:01.175 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Begin transport.
+2021-11-16 07:27:01.175 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Retrieving object data.
+2021-11-16 07:27:01.215 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Setting uuids of object references.
+2021-11-16 07:27:01.217 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: [Content:id=2048,versionId=-1,name=AB_ODOO_TOKEN,type=32,subtype=0,uuid=_a-0000e708-13de-8000-9bae-011c48011c48_31634,parent=1557]
+2021-11-16 07:27:01.256 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: Constant.forum
+2021-11-16 07:27:01.256 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: Constant.parent
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: com.appiancorp.suiteapi.content.ContentRoleMap@346cc920[
+  ContentRole[name=readers,inherit=true,allowForAll=false]
+  ContentRole[name=authors,inherit=true,allowForAll=false]
+  ContentRole[name=administrators,inherit=true,allowForAll=false]
+  ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+  ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+  ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+  securityVector=15:SEC_PUBLIC=true,SEC_CREATOR_ADMIN=false,SEC_INH_ADMIN=true,SEC_INH_EDITOR=true,SEC_INH_VIEWER=true,SEC_ALL_ADMIN=false,SEC_ALL_EDITOR=false,SEC_ALL_VIEWER=false
+]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=readers,inherit=true,allowForAll=false]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=authors,inherit=true,allowForAll=false]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=administrators,inherit=true,allowForAll=false]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=denyReaders,inherit=false,allowForAll=false]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=denyAuthors,inherit=false,allowForAll=false]
+2021-11-16 07:27:01.26 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Processing reference: ContentRole[name=denyAdministrators,inherit=false,allowForAll=false]
+2021-11-16 07:27:01.262 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Completing produce.
+2021-11-16 07:27:01.263 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Exporting binary resources.
+2021-11-16 07:27:01.263 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Serializing object to XML.
+2021-11-16 07:27:02.243 DEBUG content 2048 _a-0000e708-13de-8000-9bae-011c48011c48_31634 Object transported.
