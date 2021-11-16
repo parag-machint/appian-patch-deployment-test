@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applicationPatches>
+    <applicationPatch>
+        <applicationUuid>_a-0000e57b-08f2-8000-9bad-011c48011c48_229770</applicationUuid>
+        <packageInfo>
+            <url></url>
+        </packageInfo>
+        <patchContents>
+            <item>
+                <type>content</type>
+                <uuids>
+                    <uuid>_a-0000e708-13de-8000-9bae-011c48011c48_31634</uuid>
+                </uuids>
+            </item>
+        </patchContents>
+    </applicationPatch>
+</applicationPatches>
